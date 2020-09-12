@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+Contributing	README.md	/^## Contributing$/;"	s
+Contributing to i3-gnome	CONTRIBUTING.md	/^# Contributing to i3-gnome$/;"	c
+DESTDIR	Makefile	/^DESTDIR ?= \/$/;"	m
+INSTALL	Makefile	/^INSTALL = install$/;"	m
+Installation from scratch	README.md	/^## Installation from scratch$/;"	s
+PATH_BSPWM_GNOME	Makefile	/^PATH_BSPWM_GNOME = $(PREFIX)\/bin\/bspwm-gnome$/;"	m
+PATH_BSPWM_GNOME_DESKTOP	Makefile	/^PATH_BSPWM_GNOME_DESKTOP = $(PREFIX)\/share\/applications\/bspwm-gnome.desktop$/;"	m
+PATH_BSPWM_GNOME_SESSION	Makefile	/^PATH_BSPWM_GNOME_SESSION = $(PREFIX)\/share\/gnome-session\/sessions\/bspwm-gnome.session$/;"	m
+PATH_BSPWM_GNOME_XSESSION	Makefile	/^PATH_BSPWM_GNOME_XSESSION = $(PREFIX)\/share\/xsessions\/bspwm-gnome.desktop$/;"	m
+PATH_GNOME_SESSION_BSPWM	Makefile	/^PATH_GNOME_SESSION_BSPWM = $(PREFIX)\/bin\/gnome-session-bspwm$/;"	m
+PREFIX	Makefile	/^PREFIX  ?= $(DESTDIR)\/usr$/;"	m
+Packages	README.md	/^## Packages$/;"	s
+Requirements	README.md	/^## Requirements$/;"	s
+Troubleshooting	README.md	/^## Troubleshooting$/;"	s
+What do I'll get by installing it?	README.md	/^## What do I'll get by installing it?$/;"	s
+Wiki	README.md	/^## Wiki$/;"	s
+all	Makefile	/^all:$/;"	t
+i3wm + GNOME [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)]()	README.md	/^# i3wm + GNOME [![Maintenance](https:\/\/img.shields.io\/maintenance\/yes\/2020.svg)]()$/;"	c
+install	Makefile	/^install:$/;"	t
+uninstall	Makefile	/^uninstall:$/;"	t
